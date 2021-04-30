@@ -1,0 +1,15 @@
+ZyroX Supports the following commands:
+-------------------------------------------------
+Hey ZyroX: Starts listening for other commands
+Inject: Injects the exploit
+Kill Roblox: Kills the roblox process
+Execute: Runs the script in the script box
+Eternal hub: Loads Eternal hub in the script box
+Clear: Clears the script box
+Close: Exits ZyroX
+Exit: Exits ZyroX
+Settings: Opens settings
+Mute: Mutes the microphone (toggle in settings)
+Topmost: Toggles topmost
+--------------------------------------------------
+More coming soon!
