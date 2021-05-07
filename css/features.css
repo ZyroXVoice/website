@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
 
 /*
 	Solid State by HTML5 UP
@@ -124,7 +124,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -189,12 +189,12 @@ input, select, textarea {
 			text-decoration: none;
 			border-bottom: 0;
 			display: block;
-			font-family: 'Source Sans Pro', sans-serif;
+			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 0.8em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
 			margin: 0 0 2em 0;
-			text-transform: none;
+			text-transform: uppercase;
 		}
 
 			a.special:not(.button):before {
@@ -248,15 +248,17 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		text-transform: none;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: Raleway, Helvetica, sans-serif;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
-		text-transform: none;
+		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2167,12 +2169,12 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		display: block;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: Raleway, Helvetica, sans-serif;
 		font-size: 0.8em;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 0.7em 0;
-		text-transform: none;
+		text-transform: uppercase;
 	}
 
 	input[type="text"],
@@ -2270,7 +2272,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-family: 'Source Sans Pro', sans-serif;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			text-transform: none;
 			letter-spacing: 0;
 			font-weight: 300;
@@ -2870,7 +2872,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: Raleway, Helvetica, sans-serif;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.75em;
@@ -2879,7 +2881,7 @@ input, select, textarea {
 		padding: 0 2.25em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: none;
+		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -3104,7 +3106,7 @@ input, select, textarea {
 			}
 
 		#header nav {
-			font-family: 'Source Sans Pro', sans-serif;
+			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 0.8em;
 			font-weight: 700;
 			height: 3em;
@@ -3112,7 +3114,7 @@ input, select, textarea {
 			line-height: 3em;
 			position: absolute;
 			right: 0.7em;
-			text-transform: none;
+			text-transform: uppercase;
 			top: 0.7em;
 		}
 
@@ -3327,13 +3329,13 @@ input, select, textarea {
 					border-radius: 5px;
 					border: 0;
 					display: block;
-					font-family: 'Source Sans Pro', sans-serif;
+					font-family: Raleway, Helvetica, sans-serif;
 					font-size: 0.8em;
 					font-weight: 200;
 					letter-spacing: 0.1em;
 					line-height: 1.85em;
 					padding: 0.75em 0;
-					text-transform: none;
+					text-transform: uppercase;
 				}
 
 					#menu .links li a:hover {
@@ -3453,11 +3455,12 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: 'Source Sans Pro', sans-serif;
-			font-size: 16.5pt;
-			font-weight: 300;
-			line-height: 1.65;
-			text-transform: none;
+			font-family: Raleway, Helvetica, sans-serif;
+			font-size: 1em;
+			font-weight: 200;
+			letter-spacing: 0.1em;
+			line-height: 2;
+			text-transform: uppercase;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -3564,12 +3567,12 @@ input, select, textarea {
 		}
 
 		#wrapper > header p {
-			font-family: 'Source Sans Pro', sans-serif;
+			font-family: Raleway, Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
-			text-transform: none;
+			text-transform: uppercase;
 		}
 
 	@media screen and (max-width: 1280px) {
