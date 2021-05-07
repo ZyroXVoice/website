@@ -3453,12 +3453,11 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
-			font-weight: 200;
-			letter-spacing: 0.1em;
-			line-height: 2;
-			text-transform: uppercase;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-size: 16.5pt;
+			font-weight: 300;
+			line-height: 1.65;
+			text-transform: none;
 		}
 
 		@media screen and (max-width: 1280px) {
