@@ -3568,7 +3568,7 @@ input, select, textarea {
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
-			letter-spacing: 0.1em;
+			letter-spacing: 0.05em;
 			line-height: 2;
 			text-transform: none;
 		}
