@@ -2172,7 +2172,7 @@ input, select, textarea {
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 0.7em 0;
-/* 		text-transform: none; */
+ 		text-transform: uppercase;
 	}
 
 	input[type="text"],
@@ -2879,7 +2879,7 @@ input, select, textarea {
 		padding: 0 2.25em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		text-transform: none; /**/
 		white-space: nowrap;
 	}
 
