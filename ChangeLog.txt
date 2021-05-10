@@ -1,0 +1,13 @@
+1.1
+----------
+
+ZyroX properly Handles errors and generates error logs
+
+----------
+1.0
+----------
+
+ZyroX released
+
+----------
+
