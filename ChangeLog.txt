@@ -1,4 +1,10 @@
 ----------
+1.5
+----------
+
+Revamped UI although most exploits are patched right now :(
+
+----------
 1.4
 ----------
 
